@@ -6,8 +6,7 @@ struggle for both the teachers and the students, to find a platform for organize
 learnings even during the toughest times.
 
 ## <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 23px> Proposed Solution :
-This App, Snappy is developed with a long vision that can help students and teachers to provide a platform that can manage all the class stuff in a single app. Teachers and students can log in using their roles in the app. Teachers can upload assignments and schedule meetings for individual courses, sections, and semesters. Students can also see their assignments listed in the Assignment section, keep important notes in an organized manner ranging from low to high, and can chat with individuals of the class. A teacher can create a class and send class link from which students can join that specific class. The Android Room Database is used to save class notes and information, while assignments are saved in Google's Firebase Firestore. Graphic Era University is currently using the app, but as time goes on, we will integrate with more universities and improve the functionalities.
-
+This App, Snappy is developed with a long vision that can help students and teachers to provide a platform that can manage all the class stuff in a single app. Teachers and students can log in using their roles in the app. Teachers can upload assignments and schedule meetings for individual courses, sections, and semesters. Students can also see their assignments listed in the Assignment section, keep important notes in an organized manner ranging from low to high, and can chat with individuals of the class. A teacher can create a class and send class link from which students can join that specific class. The Android Room Database is used to save class notes and information, while assignments are saved in Google's Firebase Firestore.\
 ## 📸 Screenshots : 
 <img width="900" alt="Screenshot 2022-01-11 at 4 44 42 PM" src="https://user-images.githubusercontent.com/77102514/148933235-d97c00e8-def9-4726-82e3-3fdfda26f7b5.png">
 <img width="900" alt="Screenshot 2022-01-11 at 4 44 47 PM" src="https://user-images.githubusercontent.com/77102514/148933244-19829e7c-3e87-41d9-afb3-4c9fdea4cd98.png">
@@ -38,7 +37,7 @@ data whenever needed.  
 
 ## 🔮 Application Link & Future Scope : 
 
-The app is currently in the ```Alpha testing``` phase in Graphic Era University with a limited no. of users. You can access our app here : https://drive.google.com/drive/folders/1n2u5Umqvd6qStjrXvugRuhw0kQ3aCjKX?usp=sharing
+You can access our app here : https://drive.google.com/drive/folders/1n2u5Umqvd6qStjrXvugRuhw0kQ3aCjKX?usp=sharing
 (USE THE APP ONLY IN LIGHT MODE). 
 
 Once the app is fully tested, we will be expanding to other neighboring universities to improve their online class systems. We are planning to introduce the following features:   
