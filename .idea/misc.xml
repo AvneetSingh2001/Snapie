@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/app_icon.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/assignment.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/bottomsheet_border.xml" value="0.11041666666666666" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/create_class_icon.xml" value="0.275" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/create_illustration.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/create_meetlink_icon.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/create_tt_icon.xml" value="0.275" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/filled_round_btn.xml" value="0.275" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/filter_list.xml" value="0.21979166666666666" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/hamburger_icon.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/ic_class.xml" value="0.275" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/invite_student_icon.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/join_meeting_icon.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/main_color_gradiet.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/notes_vector.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/reciver_bub_bg.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/schedule_meet_icon.xml" value="0.275" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/send_icon.xml" value="0.14791666666666667" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/sender_bub_bg.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/toolbar_menu_icon.xml" value="0.290625" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/drawable/white_roundfilled.xml" value="0.275" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/activity_main.xml" value="0.13949275362318841" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/activity_meeting_home.xml" value="0.20364583333333333" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/assignment_item.xml" value="0.2717391304347826" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/dropdown_item.xml" value="0.1829861111111111" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_assignment_detail.xml" value="0.20364583333333333" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.43937232524964337" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_chat.xml" value="0.22291666666666668" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_chat_fragmet.xml" value="0.22291666666666668" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_class_group.xml" value="0.264" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_create_assignment.xml" value="0.20364583333333333" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_details.xml" value="0.2" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_edit_notes.xml" value="0.27447916666666666" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_get_started.xml" value="0.1334853090172239" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_home_notes.xml" value="0.2" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_join_class.xml" value="0.1334853090172239" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_student.xml" value="0.2" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_student_assignment.xml" value="0.4" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_teacher_assignment.xml" value="0.20364583333333333" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/fragment_teachers.xml" value="0.264" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/item_notes.xml" value="0.4" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/my_text_bubble.xml" value="0.22291666666666668" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/myclass_item.xml" value="0.4" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/reciver_bubble.xml" value="0.6" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/sender_bubble.xml" value="0.4" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/layout/students_item.xml" value="0.1334853090172239" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/menu/change_role_menu.xml" value="0.4" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/menu/class_group_menu.xml" value="0.20364583333333333" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/menu/create_fabmenu.xml" value="0.6" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/menu/delete_menu.xml" value="0.1609375" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/menu/mini_setting_menu.xml" value="0.4" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/menu/mini_setting_teacher_menu.xml" value="0.536" />
+        <entry key="..\:/App_Projects/ProjectX/app/src/main/res/menu/student_fabmenu.xml" value="0.1609375" />
+        <entry key="app/src/main/res/drawable/assignment.xml" value="0.20185185185185187" />
+        <entry key="app/src/main/res/drawable/background_circle.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/border_input_bg.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/border_round_btn.xml" value="0.2759259259259259" />
+        <entry key="app/src/main/res/drawable/calendar.xml" value="0.20185185185185187" />
+        <entry key="app/src/main/res/drawable/edittext_bg.xml" value="0.14479166666666668" />
+        <entry key="app/src/main/res/drawable/email_icon.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/facebook_icon.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/filled_round_btn.xml" value="0.2759259259259259" />
+        <entry key="app/src/main/res/drawable/google_icon.xml" value="0.23981481481481481" />
+        <entry key="app/src/main/res/drawable/main_color_gradiet.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/reciver_bub_bg.xml" value="0.23981481481481481" />
+        <entry key="app/src/main/res/drawable/red_button.xml" value="0.23981481481481481" />
+        <entry key="app/src/main/res/drawable/selector_channel_btn.xml" value="0.14479166666666668" />
+        <entry key="app/src/main/res/drawable/selector_shape.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/selector_single_btn.xml" value="0.14479166666666668" />
+        <entry key="app/src/main/res/drawable/shape_circle_black.xml" value="0.14479166666666668" />
+        <entry key="app/src/main/res/drawable/shape_circle_blue.xml" value="0.14479166666666668" />
+        <entry key="app/src/main/res/drawable/shape_circle_pink_dark.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/twitter_icon.xml" value="0.2222222222222222" />
+        <entry key="app/src/main/res/drawable/white_roundfilled.xml" value="0.23981481481481481" />
+        <entry key="app/src/main/res/drawable/yellow_dot.xml" value="0.20185185185185187" />
+        <entry key="app/src/main/res/layout/activity_details.xml" value="0.25052083333333336" />
+        <entry key="app/src/main/res/layout/activity_get_started.xml" value="0.25052083333333336" />
+        <entry key="app/src/main/res/layout/activity_lecture_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_login_screen.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.125" />
+        <entry key="app/src/main/res/layout/activity_meeting_home.xml" value="0.12062256809338522" />
+        <entry key="app/src/main/res/layout/activity_meeting_video.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_meetings.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/activity_teachers.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/assignment_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/class_option_item.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/layout/content_lecture_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/dialog_delete.xml" value="0.1824074074074074" />
+        <entry key="app/src/main/res/layout/dropdown_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_assignment_detail.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_blank.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_bottom_sheet.xml" value="0.22407407407407406" />
+        <entry key="app/src/main/res/layout/fragment_chat_fragmet.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/layout/fragment_class_group.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_create_assignment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_create_note.xml" value="0.1461038961038961" />
+        <entry key="app/src/main/res/layout/fragment_create_notes.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_details.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_edit_notes.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_get_started.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_home_notes.xml" value="0.29583333333333334" />
+        <entry key="app/src/main/res/layout/fragment_join_class.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/layout/fragment_notes_home.xml" value="0.3098958333333333" />
+        <entry key="app/src/main/res/layout/fragment_second.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_sign_up.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_student.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_student_assignment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_teacher_assignment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_teachers.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_notes.xml" value="0.22777777777777777" />
+        <entry key="app/src/main/res/layout/myclass_item.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/reciver_bubble.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/layout/sender_bubble.xml" value="0.15677083333333333" />
+        <entry key="app/src/main/res/layout/students_item.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/change_role_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/class_group_menu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/create_fabmenu.xml" value="0.25" />
+        <entry key="app/src/main/res/menu/delete_menu.xml" value="0.21296296296296297" />
+        <entry key="app/src/main/res/menu/mini_setting_menu.xml" value="0.234375" />
+        <entry key="app/src/main/res/menu/mini_setting_teacher_menu.xml" value="0.12916666666666668" />
+        <entry key="app/src/main/res/menu/student_fabmenu.xml" value="0.234375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1453125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
